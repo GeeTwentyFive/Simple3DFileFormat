@@ -10,6 +10,8 @@ u32 num_verts | u32 num_indices | u32 texture_rgba_count |
 
 Official reader & writer lib: https://github.com/GeeTwentyFive/S3DLib
 
+Official CLI converter: https://github.com/GeeTwentyFive/S3DConverter
+
 
 # Motive
 
