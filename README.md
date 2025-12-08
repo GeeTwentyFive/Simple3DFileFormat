@@ -8,6 +8,8 @@ u32 num_verts | u32 num_indices | u32 texture_rgba_count |
 <TEXTURE_RGBA> (u8 r, u8 g, u8 b, u8 a)...
 ```
 
+Official reader & writer lib: https://github.com/GeeTwentyFive/S3DLib
+
 
 # Motive
 
