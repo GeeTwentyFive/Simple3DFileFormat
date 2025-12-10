@@ -14,6 +14,8 @@ Official Python reader & writer lib: https://github.com/GeeTwentyFive/PyS3D
 
 Official CLI converter: https://github.com/GeeTwentyFive/S3DConverter
 
+Official runtime Godot loader: https://github.com/GeeTwentyFive/GodotS3DLoader
+
 
 # Motive
 
