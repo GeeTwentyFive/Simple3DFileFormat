@@ -1,5 +1,3 @@
-**CURRENTLY WIP**
-
 FILE EXTENSION: `.s3d`
 
 FORMAT (binary data):
